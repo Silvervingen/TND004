@@ -1,0 +1,10 @@
+^C:\USERS\ANTON\ONEDRIVE\DOKUMENT\TND004 (DATASTRUKTURER)\LAB 3\BUILD\CMAKEFILES\49D45A9D8EEA565935BF136332552EA5\GENERATE.STAMP.RULE
+setlocal
+"D:\Programmering pogram\bin\cmake.exe" "-SC:/Users/anton/OneDrive/Dokument/TND004 (Datastrukturer)/lab 3/code" "-BC:/Users/anton/OneDrive/Dokument/TND004 (Datastrukturer)/lab 3/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/anton/OneDrive/Dokument/TND004 (Datastrukturer)/lab 3/build/TND004-Lab-3.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

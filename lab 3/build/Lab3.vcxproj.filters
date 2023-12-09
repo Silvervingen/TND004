@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\lab3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\test1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\test2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\test3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\frequency_table.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\BinarySearchTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\dsexceptions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\iterator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\test0_out.txt" />
+    <None Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\test1_out.txt" />
+    <None Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\words.txt" />
+    <None Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\text.txt" />
+    <None Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\text_long.txt" />
+    <None Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\frequency_table.txt" />
+    <None Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\frequency_table_long.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8CADB27C-E022-301B-8769-91B775D52071}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{14802BE2-F436-3DC6-A8DD-6FF194948B21}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

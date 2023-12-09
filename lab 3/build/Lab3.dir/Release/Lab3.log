@@ -1,0 +1,24 @@
+﻿  Building Custom Rule C:/Users/anton/OneDrive/Dokument/TND004 (Datastrukturer)/lab 3/code/CMakeLists.txt
+  lab3.cpp
+  test1.cpp
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\test1.cpp(59,19): warning C4189: 'j': local variable is initialized but not referenced
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\test1.cpp(65,19): warning C4189: 'j': local variable is initialized but not referenced
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\test1.cpp(229,19): warning C4189: 'j': local variable is initialized but not referenced
+  test2.cpp
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\test1.cpp(235,19): warning C4189: 'j': local variable is initialized but not referenced
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\BinarySearchTree.h(40,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\BinarySearchTree.h(38): message : while compiling class template member function 'BinarySearchTree<int>::BinarySearchTree(const std::vector<Comparable,std::allocator<int>> &)'
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\BinarySearchTree.h(38): message :         with
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\BinarySearchTree.h(38): message :         [
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\BinarySearchTree.h(38): message :             Comparable=int
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\BinarySearchTree.h(38): message :         ]
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\test2.cpp(21): message : see reference to function template instantiation 'BinarySearchTree<int>::BinarySearchTree(const std::vector<Comparable,std::allocator<int>> &)' being compiled
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\test2.cpp(21): message :         with
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\test2.cpp(21): message :         [
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\test2.cpp(21): message :             Comparable=int
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\test2.cpp(21): message :         ]
+  test3.cpp
+  frequency_table.cpp
+  Generating Code...
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\code\test2.cpp(21): message : see reference to class template instantiation 'BinarySearchTree<int>' being compiled
+  Lab3.vcxproj -> C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab 3\build\Release\Lab3.exe
