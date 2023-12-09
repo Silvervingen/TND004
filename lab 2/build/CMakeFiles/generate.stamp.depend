@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/Users/anton/OneDrive/Dokument/TND004 (Datastrukturer)/lab 2/build/CMakeFiles/3.18.4/CMakeCXXCompiler.cmake
+C:/Users/anton/OneDrive/Dokument/TND004 (Datastrukturer)/lab 2/build/CMakeFiles/3.18.4/CMakeRCCompiler.cmake
+C:/Users/anton/OneDrive/Dokument/TND004 (Datastrukturer)/lab 2/build/CMakeFiles/3.18.4/CMakeSystem.cmake
+C:/Users/anton/OneDrive/Dokument/TND004 (Datastrukturer)/lab 2/code/CMakeLists.txt
+D:/Programmering pogram/share/cmake-3.18/Modules/CMakeCXXInformation.cmake
+D:/Programmering pogram/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake
+D:/Programmering pogram/share/cmake-3.18/Modules/CMakeGenericSystem.cmake
+D:/Programmering pogram/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake
+D:/Programmering pogram/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake
+D:/Programmering pogram/share/cmake-3.18/Modules/CMakeRCInformation.cmake
+D:/Programmering pogram/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake
+D:/Programmering pogram/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Programmering pogram/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Programmering pogram/share/cmake-3.18/Modules/Compiler/MSVC-CXX.cmake
+D:/Programmering pogram/share/cmake-3.18/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Programmering pogram/share/cmake-3.18/Modules/Platform/Windows-MSVC.cmake
+D:/Programmering pogram/share/cmake-3.18/Modules/Platform/Windows.cmake
+D:/Programmering pogram/share/cmake-3.18/Modules/Platform/WindowsPaths.cmake

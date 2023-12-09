@@ -1,0 +1,3 @@
+C:/Users/anton/OneDrive/Dokument/TND004 (Datastrukturer)/lab 2/build/CMakeFiles/Lab2.dir
+C:/Users/anton/OneDrive/Dokument/TND004 (Datastrukturer)/lab 2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/anton/OneDrive/Dokument/TND004 (Datastrukturer)/lab 2/build/CMakeFiles/ZERO_CHECK.dir
