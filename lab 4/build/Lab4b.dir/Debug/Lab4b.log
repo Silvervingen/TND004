@@ -1,0 +1,6 @@
+﻿  graph.cpp
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab4\code\code4b\heap.h(43,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab4\code\code4b\heap.h(42): message : while compiling class template member function 'void Heap<Edge>::buildHeap(void)'
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab4\code\code4b\heap.h(16): message : see reference to function template instantiation 'void Heap<Edge>::buildHeap(void)' being compiled
+C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab4\code\code4b\graph.cpp(139): message : see reference to class template instantiation 'Heap<Edge>' being compiled
+  Lab4b.vcxproj -> C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab4\build\Debug\Lab4b.exe

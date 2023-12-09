@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab4\code\code4a\digraph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab4\code\code4a\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab4\code\code4a\edge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab4\code\code4a\digraph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab4\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab4\code\code4a\digraph1.txt" />
+    <None Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab4\code\code4a\digraph1_test_run.txt" />
+    <None Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab4\code\code4a\digraph2.txt" />
+    <None Include="C:\Users\anton\OneDrive\Dokument\TND004 (Datastrukturer)\lab4\code\code4a\digraph2_test_run.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D2E10167-B6F3-3C95-9E4D-316BCA1F765B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{98980CBA-0E3D-3D8A-ADE0-3A9B9DC8B418}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
